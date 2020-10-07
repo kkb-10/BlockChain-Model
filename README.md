@@ -17,5 +17,3 @@ Redirect yourself to the root of this folder in a terminal.
 Execute the following command :-
 
 g++ imports/sha256.cpp source/database.cpp source/dehash.cpp source/hash.cpp source/read.cpp source/verification.cpp source/write.cpp source/exceptions.cpp main.cpp -o voidchain && ./voidchain -v
-
-I've attached a video in the folder for the better understanding of project execution.
